@@ -54,10 +54,16 @@ export const photoScreenSubHeading = "Beautiful moments with Madam Jii"
 // - Make sure each id is unique and the src points to a valid image path
 // Make sure all image files are placed in the `/public/images/` folder
 export const photos = [
-    { id: 1, src: "/images/1.jpeg" },
-    { id: 2, src: "/images/2.jpeg" },
-    { id: 3, src: "/images/3.jpeg" },
-    { id: 4, src: "/images/4.jpeg" },
+    { id: 1, src: "c:\Users\srika_8unxs9z\Downloads\2.jpeg" },
+    { id: 2, src: "c:\Users\srika_8unxs9z\Downloads\1.jpeg" },
+    { id: 3, src: "c:\Users\srika_8unxs9z\Downloads\3.jpeg" },
+    { id: 4, src: "c:\Users\srika_8unxs9z\Downloads\4.jpeg" },
+    { id: 5, src: "c:\Users\srika_8unxs9z\Downloads\5.jpeg" },
+    { id: 6, src: "c:\Users\srika_8unxs9z\Downloads\6.jpeg" },
+    { id: 7, src: "c:\Users\srika_8unxs9z\Downloads\7.jpeg" },
+    { id: 8, src: "c:\Users\srika_8unxs9z\Downloads\8.jpeg" },
+    { id: 9, src: "c:\Users\srika_8unxs9z\Downloads\9.jpeg" },
+    { id: 10, src: ""C:\Users\srika_8unxs9z\Downloads\10.jpeg"" },
 ]
 
 
@@ -80,11 +86,9 @@ Thank you for being the wonderful, amazing, absolutely fantastic person that you
 
 Happy Birthday, beautiful soul! 🎂✨
 
-With all love and warmest wishes,
+With all my love and warmest wishes,
 Forever Yours 💕`
 
 // Background Music file path
 // Place your .mp3 file inside the "public/audio" folder and give the path like below.
 export const backgroundMusic = "/audio/bg.mp3"
-
-
